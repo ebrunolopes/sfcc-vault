@@ -1,0 +1,15 @@
+# Generated reports
+work/ai-reports/
+
+# Obsidian internals
+work/.obsidian/workspace.json
+work/.obsidian/workspace-mobile.json
+work/.obsidian/plugins/
+work/.trash/
+
+# macOS
+.DS_Store
+
+# Temp files
+**/.repomix-output.txt
+**/*.webui_secret_key
