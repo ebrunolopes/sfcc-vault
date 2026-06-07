@@ -26,7 +26,7 @@ set -euo pipefail
 
 # --- Configuration ----------------------------------------------------------
 
-VAULT="${VAULT:-$HOME/work/SFCC-Vault}"
+VAULT="${VAULT:-$HOME/work/aiworkspace/vaults/SFCC-Vault}"
 SRC_SKILLS="$VAULT/90-Meta/skills"
 SRC_COMMANDS="$VAULT/90-Meta/commands"
 DEST_SKILLS="$HOME/.agents/skills"
